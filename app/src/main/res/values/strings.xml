@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">Ajher</string>
+
+    <!--    Start of Title-->
+    <string name="title_activity_bottom_nav">BottomNavActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_create_quiz">Create Quiz</string>
+    <string name="title_choose_category">Choose Category</string>
+    <string name="title_leaderboard">Leaderboard</string>
+    <string name="title_history">History</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_create_account">Create Account</string>
+    <string name="title_new_pass">New Password</string>
+    <string name="title_otp_verif">OTP Verification</string>
+    <string name="title_sign_up">Sign Up</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_help_and_support">Help and Support</string>
+    <string name="title_review_answer">Review Answers</string>
+    <!--    End of Title-->
+
+    <!--    Start of Warning-->
+    <string name="error_at_least_8_char">Must be at least 8 characters</string>
+    <!--    End of Warning-->
+
+    <!--    Start of Auth Layout-->
+    <string name="txt_email">Email</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_confirm_password">Confirm Password</string>
+    <string name="txt_create_account">Create Account</string>
+    <string name="txt_sign_in_with_google">Sign in with Google</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_forgot_password">Forgot password?</string>
+    <string name="txt_terms_of_services"><![CDATA[By continuing, you agree to the Terms of Services & Privacy Policy.]]></string>
+    <string name="txt_login_or_sign_up">Login or Sign Up</string>
+    <string name="txt_login_or_create_an_account">Login or create an account to take quiz, take part in challenge, and more.</string>
+    <string name="txt_your_new_password_must_be_different_from_previous_used_passwords">Your new password must be different from previous used passwords.</string>
+    <string name="txt_reset_password">Reset Password</string>
+    <string name="txt_4_digit">Enter the 4-digit that we have send in your email</string>
+    <string name="txt_continue">Continue</string>
+    <string name="txt_resend_otp">Resend OTP</string>
+    <string name="txt_we_will_send_you_otp">Enter your email and we will send you a OTP to reset your password.</string>
+    <string name="txt_sign_up_with_email">Sign Up with Email</string>
+    <string name="txt_already_have_an_account">Already have an account? Login</string>
+    <string name="txt_chaned_the_password">Changed the Password</string>
+    <string name="txt_created_an_account">Created an Account</string>
+    <string name="txt_successfully">Successfully</string>
+    <string name="txt_login_to_your_account">You can now use your new password to login to your account</string>
+    <string name="txt_your_account_has_been_created">Congratulations, your account has been successfully created, now you can login</string>
+    <!--    End of Auth Layout-->
+
+    <!--    Start of Dashboard Layout-->
+    <string name="txt_good_morning">Good Morning</string>
+    <string name="txt_enter_your_quiz_code">Enter your quiz code</string>
+    <string name="txt_example_quiz_code">EX:TECH2023</string>
+    <string name="txt_join">Join</string>
+    <string name="txt_week_14">Week 14</string>
+    <string name="txt_you_have_played_a_total">You have played a total</string>
+    <string name="txt_24_quiz_this_month">24 quiz this month!</string>
+    <string name="txt_total_quiz">37/50</string>
+    <string name="txt_quiz_played">Quiz Played</string>
+    <string name="txt_quiz_value">5</string>
+    <string name="txt_quiz_created">Quiz Created</string>
+    <string name="txt_quiz_won">Quiz Won</string>
+    <string name="txt_score">0 Pts</string>
+
+    <string name="txt_diamond">Diamond</string>
+    <string name="txt_gold">Gold</string>
+    <string name="txt_silver">Silver</string>
+
+    <string-array name="played_categories">
+        <item>Daily</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+
+    <string name="txt_all_time">All Time</string>
+    <string name="txt_weekly">Weekly</string>
+    <!--    End of Dashboard Layout-->
+
+    <!--    Start of Create Quiz Layout-->
+    <string name="txt_add_question">Add Question</string>
+    <string name="txt_quiz_title">Quiz Title</string>
+    <string name="txt_quiz_category">Quiz Category</string>
+    <string name="txt_description">Description</string>
+    <string name="txt_60_sec">60 Sec</string>
+    <string name="txt_add_answer">Add Answer</string>
+    <string name="txt_succesfull_create_quiz">Succesfull \nCreate Quiz</string>
+    <string name="txt_invite_quiz_participants">Invite your quiz participants and find the winner of your quiz</string>
+    <string name="txt_quiz_code">TECH2023</string>
+    <string name="txt_copy_code">Copy Code</string>
+    <string name="txt_quiz_detail">Quiz Detail</string>
+    <string name="txt_quiz_theme">TECH •</string>
+    <string name="txt_quiz_amount">5 QUIZZES</string>
+    <string name="txt_take_this_basic_remote_work_tools_quiz_to_test_your_knowledge">Take this basic remote work tools quiz to test your knowledge.</string>
+    <string name="txt_questions">Questions</string>
+    <string name="txt_confirm">Confirm</string>
+    <string name="txt_confirm_quiz">Confirm Quiz</string>
+    <string name="txt_get_a_score_of_80_out_of_100">Get a score of 80 out of 100</string>
+
+    <string-array name="score_categories">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+        <item>60%</item>
+        <item>70%</item>
+        <item>80%</item>
+        <item>90%</item>
+        <item>100%</item>
+    </string-array>
+    <!--    End of Create Quiz Layout-->
+
+    <!--    Start of Detail Quiz Layout-->
+    <string name="txt_your_answers">Your Answers</string>
+    <string name="txt_quiz_name">QUIZ NAME</string>
+    <string name="txt_questions_value">10 Questions</string>
+    <string name="txt_time_value">60 Minutes</string>
+    <string name="txt_point_value">100+ Points</string>
+    <string name="txt_anytime_is_a_good_time_to_take_a_quiz_and_even_better_if_it_s_a_technology_themed_quiz">Anytime is a good time to take a quiz and even better if it\'s a technology themed quiz!</string>
+    <string name="txt_creator">Creator</string>
+    <string name="txt_sir_antonio">Sir Antonio</string>
+    <string name="txt_play">Play</string>
+    <string name="txt_information">INFORMATION</string>
+    <string name="txt_make_sure_to_answer_the_question_correctly_because_you_can_t_go_back_to_the_previous_question_and_also_pay_attention_to_the_processing_time">Make sure to answer the question correctly, because you can\'t go back to the previous question, and also pay attention to the processing time.</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_type_tech2023_to_complete_this_quiz">Type TECH2023 to complete this quiz</string>
+    <string name="txt_write_your_answer">Write Your Answer</string>
+    <string name="txt_1_minutes_10_second">1 Minutes 10 Second</string>
+    <string name="txt_question_5_of_10">QUESTION 5 OF 10</string>
+    <string name="txt_what_are_the_benefits_and_potential_risks_associated_with_using_this_technology_in_an_educational_context">What are the benefits and potential risks associated with using this technology in an educational context?</string>
+    <string name="txt_next">Next</string>
+    <string name="txt_wait_a_minute_we_are_correcting_your_answer">Wait a minute, we are correcting your answer</string>
+    <string name="txt_precentage">95%</string>
+    <string name="txt_completion">COMPLETION</string>
+    <string name="txt_skipped_question">Skipped Question</string>
+    <string name="txt_correct_answer">CORRECT ANSWER</string>
+    <string name="txt_incorrect_answer">INCORRECT ANSWER</string>
+    <string name="txt_done">Done</string>
+    <string name="txt_good_job">Good Job!</string>
+    <string name="txt__get_quiz_points">You get +95 Quiz Points</string>
+    <string name="txt_check_correct_answer">Check Correct Answer</string>
+    <string name="txt_you_cant_exit_the_app">While answering the questions, you can\'t exit the app.</string>
+    <!--    End of Detail Quiz Layout-->
+
+    <!--    Start of Profile Layout-->
+    <string name="txt_points">POINTS</string>
+    <string name="txt_world_rank">WORLD RANK</string>
+    <string name="txt_local_rank">LOCAL RANK</string>
+    <string name="txt_top_performance_by_category">Top performance by category</string>
+
+    <string name="txt_account">ACCOUNT</string>
+    <string name="txt_update_profile">Update Profile</string>
+    <string name="txt_update_username_country_etc">Update username, country, etc</string>
+    <string name="txt_change_email_address">Change Email Address</string>
+    <string name="txt_change_password">Change Password</string>
+    <string name="txt_last_change_1_year_ago">last change 1 year ago</string>
+    <string name="txt_other">OTHER</string>
+    <string name="txt_notification">Notification</string>
+    <string name="txtx_faq">FAQ</string>
+    <string name="txt_most_frequently_asked_question">Most frequently asked question</string>
+    <string name="txt_logout">Logout</string>
+
+    <string name="txt_search_topics_or_questions">Search topics or questions</string>
+    <string name="txt_introduction">INTRODUCTION</string>
+    <string name="txt_intro_to_ajher_apps">Intro to Ajher apps</string>
+    <string name="txt_how_to_login_or_sign_up">How to login or sign up?</string>
+    <string name="txt_create_and_take_quiz">CREATE AND TAKE QUIZ</string>
+    <string name="txt_how_to_create_quiz_in_the_app">How to create quiz in the app?</string>
+    <string name="txt_how_to_take_quiz_in_the_app">How to take quiz in the app?</string>
+    <string name="txt_how_to_become_a_top_quiz_player">How to become a top quiz player?</string>
+    <!--    End of Profile Layout-->
+
+    <!--    Start of History Layout-->
+    <string name="txt_search">Search</string>
+    <string name="txt_quiz_joined">Quiz Joined</string>
+    <string name="txt_rank">Rank</string>
+    <string name="txt_total_question_processing">TOTAL QUESTION PROCESSING</string>
+    <string name="txt_20_minutes">20 Minutes</string>
+    <string name="txt_average_question_processing">AVERAGE QUESTION PROCESSING</string>
+    <!--    End of History Layout-->
+</resources>

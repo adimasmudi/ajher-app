@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819000760726",
+    "project_id": "ajher-b5b9d",
+    "storage_bucket": "ajher-b5b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819000760726:android:7006f98b38a7ed133825b7",
+        "android_client_info": {
+          "package_name": "com.alcorp.ajher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1d707cGHxHlIKsebRY4FLERJQuGbRUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
