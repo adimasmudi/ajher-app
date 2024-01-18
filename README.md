@@ -1,5 +1,12 @@
 <img src="https://raw.githubusercontent.com/ajher-team/ajher-app/master/app/src/main/ic_ajher-playstore.png" width="100" height="100" align="right" />
 
+# Ajher Team
+- Masmudi
+- Nicola Yani Alivant
+- Okhi Sahrul Barkah
+- Hesa Firdaus
+From Google Developer Student Clubs Universitas Trunojoyo Madura
+
 # Ajher App
 
 Ajher is an app that can makes it easier for teachers to correct exam questions.
